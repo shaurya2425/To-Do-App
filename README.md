@@ -2,7 +2,8 @@
 
 A modern, responsive, and minimalistic Todo App built using **React** and **Tailwind CSS**. Track your tasks with smooth UI, animated reordering, due dates, and categories (coming soon!).
 
-![Main Screenshot(./Screenshot 2025-06-16 103957)
+![Main Screenshot()![to-do-app-preview](https://github.com/user-attachments/assets/74e01743-4fd3-4628-bc3f-afab64c339fe)
+
 
 ---
 
