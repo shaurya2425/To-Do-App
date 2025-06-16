@@ -4,6 +4,10 @@ A modern, responsive, and minimalistic Todo App built using **React** and **Tail
 
 ![to-do-app-preview](https://github.com/user-attachments/assets/74e01743-4fd3-4628-bc3f-afab64c339fe)
 
+## 🔗 Live Demo
+
+🚀 Check out the live version of the app here:  
+👉 [To-Do App Live](https://to-do-app-seven-silk.vercel.app/)
 
 ---
 
