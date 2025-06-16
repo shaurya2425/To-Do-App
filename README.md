@@ -24,17 +24,6 @@ This is a user-friendly, elegant Todo List app designed to boost productivity an
 
 ---
 
-## 📸 Screenshots
-
-> Add these inside `screenshots/` folder and update file names accordingly.
-
-- ✅ Task with due date  
-- ✅ Responsive layout (mobile & desktop)  
-- ✅ Drag-and-drop reorder animation  
-- ✅ Light, soft gradient minimal UI  
-
----
-
 ## ✨ Features
 
 - ✅ Add, edit, delete, and complete todos
@@ -46,4 +35,32 @@ This is a user-friendly, elegant Todo List app designed to boost productivity an
 ---
 
 ## 📁 Project Structure
+├── components/
+│ ├── TodoForm.jsx
+│ ├── TodoItem.jsx
+│ └── index.js
+├── contexts/
+│ ├── TodoContext.jsx
+│ └── index.js
+├── App.jsx
+└── main.jsx
 
+
+# 1. Clone the repository
+git clone https://github.com/shaurya2425/To-Do-App.git
+
+# 2. Navigate into the project folder
+cd To-Do-App
+
+# 3. Install dependencies
+npm install
+# or use yarn
+# yarn install
+
+# 4. Start the development server
+npm run dev
+# or
+# yarn dev
+
+Shaurya Rajput
+Crafted with ❤️ using React & Tailwind CSS
