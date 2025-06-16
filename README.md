@@ -40,10 +40,16 @@ This is a user-friendly, elegant Todo List app designed to boost productivity an
 ---
 
 
-## 📦 Getting Started
+### 1. Clone the repository
 git clone https://github.com/shaurya2425/To-Do-App.git
+
+### 2. Navigate into the project directory
 cd To-Do-App
+
+### 3. Install dependencies
 npm install
+
+### 4. Start the development server
 npm run dev
 
 
