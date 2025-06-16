@@ -54,5 +54,13 @@ npm run dev
 
 ---
 
-Shaurya Rajput
-Crafted with ❤️ using React & Tailwind CSS
+## 🤝 Contributing
+
+**Contributions are welcome!**  
+Feel free to fork this repo, suggest features, open issues, or submit pull requests.
+
+
+**Shaurya Rajput**  
+Crafted with ❤️ using **React** & **Tailwind CSS**
+
+---
