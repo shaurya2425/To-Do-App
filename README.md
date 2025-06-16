@@ -52,6 +52,7 @@ npm install
 ### 4. Start the development server
 npm run dev
 
+---
 
 Shaurya Rajput
 Crafted with ❤️ using React & Tailwind CSS
